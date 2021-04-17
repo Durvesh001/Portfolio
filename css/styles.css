@@ -8,13 +8,13 @@ body {
   .start{
     padding-bottom: 40px;
     text-align: left;
-    padding-left: 130px;
+    padding-left: 170px;
   }
 
   
   .second{
     position: relative;
-    left: 290px;
+    left: 25%;
   }
 
   .third{
